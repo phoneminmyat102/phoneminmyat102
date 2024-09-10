@@ -56,11 +56,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/phoneminmyat102">
-     <a href="https://github.com/phoneminmyat102">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=phoneminmyat102&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoneminmyat102&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoneminmyat102&theme=radical" alt="GitHub Profile Summary"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phoneminmyat102&theme=radical" alt="Languages per Repo"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phoneminmyat102&theme=radical" alt="Most Commit Languages"/>
-  </a>
   </a>
 </div>
 
