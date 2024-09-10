@@ -32,12 +32,5 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/phoneminmyat102">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=phoneminmyat102&theme=radical" alt="GitHub Streak" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=phoneminmyat102&theme=radical" alt="GitHub Contribution Graph" />
   </a>
 </div>
-
-## Pull Requests and Contributions
-
-- [My Recent Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Aphoneminmyat102)
-- [My Contributions in 2024](https://github.com/search?q=author%3Aphoneminmyat102&type=commits)
-
