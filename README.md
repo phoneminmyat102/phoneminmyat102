@@ -1,5 +1,3 @@
-
-
 <!--
 ## Hi there 👋
 **phoneminmyat102/phoneminmyat102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,18 +17,48 @@ Here are some ideas to get you started:
   <p>Trying To Get My Prime Time Back</p>
 </div>
 
-## GitHub Profile
+## 🚀 About Me
+- 🔭 I’m currently working on: **Backend Development and Web Application Projects**
+- 🌱 I’m learning: **Vue.js, Laravel, Python, and WebSockets**
+- 💬 Ask me about: **Laravel, Vue.js, API Development, Git, WebSockets**
+- 📫 How to reach me: [Phone Min Myat](mailto:your-email@example.com)
+- ⚡ Fun fact: I’m passionate about optimizing backend code and learning strategy management!
 
-<div>
-  <a href="https://github.com/phoneminmyat102">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=phoneminmyat102&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoneminmyat102&layout=compact&langs_count=8&theme=radical"/>
+## 🛠️ Skills & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Laravel-FB503B?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
 </div>
 
-## Contributions
+## 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/phoneminmyat102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phoneminmyat102&theme=radical" alt="GitHub Streak" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=phoneminmyat102&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoneminmyat102&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  </a>
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <a href="https://github.com/phoneminmyat102">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phoneminmyat102&theme=radical" alt="GitHub Streak"/>
+  </a>
+</div>
+
+## 🏆 Achievements & Badges
+<div align="center">
+  <a href="https://github.com/phoneminmyat102">
+    <img src="https://github-profile-trophy.vercel.app/?username=phoneminmyat102&theme=radical" alt="GitHub Trophies"/>
   </a>
 </div>
