@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Vuex-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Laravel-FB503B?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Laravel%20Socialite-FB503B?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
