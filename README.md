@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 - 🔭 I’m currently working on: **Backend Development and Web Application Projects**
 - 🌱 I’m learning: **Computer Science and Strategy Management**
-- 💬 Ask me about: **Laravel, Vue.js, API Development, Git, WebSockets**
+- 💬 Ask me about: **Laravel, Vue.js, API Development, Git**
 - 📫 How to reach me: [Phone Min Myat](mailto:phoneminmyat102115@gmail.com)
 - ⚡ Fun fact: I’m passionate about optimizing backend code and server deployment!
 
